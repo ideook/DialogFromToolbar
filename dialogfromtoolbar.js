@@ -4,7 +4,7 @@ DialogFromToolbar.ShowDialog = function()
 {
     var dialogParams = {
     "PluginName": "Dialog From Toolbar",
-    "DialogBox": "https://ideook.github.io/HelloBlockAsync/index.html",
+    "DialogBox": "https://ideook.github.io/office/note/20220328-2.html",
     "DialogBoxWidth": 500,
     "DialogBoxHeight": 300,
     "DialogBoxType": "Modeless"};
